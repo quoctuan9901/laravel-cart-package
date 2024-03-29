@@ -10,14 +10,6 @@
         {
             "name": "Quoc Tuan",
             "email": "contact.quoctuan@gmail.com"
-        },
-        {
-            "name": "Michael V.",
-            "email": "michael@michaelbelgium.me"
-        },
-        {
-            "name": "Sami Mansour",
-            "email": "mindscms@gmail.com"
         }
     ],
     "require": {
@@ -41,6 +33,7 @@
         }
     },
     "minimum-stability": "stable",
+    "prefer-stable": true,
     "extra": {
         "laravel": {
             "providers": [

@@ -8,7 +8,7 @@ Install the package through [Composer](http://getcomposer.org/).
 
 Run the Composer require command from the Terminal:
 
-    composer require mindscms/laravelshoppingcart
+    composer require quoctuan9901/laravel-cart-package
 
 ### Laravel <= 7.0
 
